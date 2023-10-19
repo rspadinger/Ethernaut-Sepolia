@@ -14,7 +14,6 @@ Install the following tools:
 
 -   Node.js & NPM: https://nodejs.org
 -   Hardhat: https://hardhat.org/hardhat-runner/docs/getting-started
--   Metamask: https://metamask.io/download/
 
 ## Step 1. Clone the project
 
@@ -35,7 +34,6 @@ The environment variables are the same for a React project and a project that co
 Here are the required environment variables:
 
 ALCHEMY_SEPOLIA=https://eth-sepolia.g.alchemy.com/v2/REPLACE_WITH_YOUR_API_KEY
-PRIVATE_KEY = "YOUR PRIVATE KEY FROM A METAMASK ACCOUNT"
 
 ## Step 4. Run the tests for each challenge
 
